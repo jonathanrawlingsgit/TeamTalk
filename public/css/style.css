@@ -1,15 +1,20 @@
 .body-login-page {
-    background:rgb(223, 77, 24);
-    max-width: 100%;
-    min-width: 400px;
-    min-height: 100%;
+    background-image: url('https://i.imgur.com/bGEyTAj.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
 }
 p {
     margin: 10px 0 !important;
 }
 
 .login-container {
+    color: rgba(0, 0, 0, 0.797);
     width: 400px;
     margin-top: 50px;
     text-align: center;
+
+    
 }
+
